@@ -1,0 +1,52 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(80deg,rgb(70, 16, 12),rgb(20, 3, 1),rgb(20, 3, 1),rgb(20, 3, 1),rgb(20, 3, 1),rgb(20, 3, 1),rgb(7, 1, 0));
+    color: white;
+}
+
+.navbar{
+    background-color: rgba(184, 43, 11, 0);
+    
+}
+
+.card{
+    background-color: rgba(165, 42, 42, 0);
+    width: 200px;
+    height: 60px;
+    margin-left: -40;
+
+}
+.imgstyle{
+    width: 200px;
+    height: 60px;
+    margin-left: -18;
+    margin-top: -10;
+
+
+}
+.div2{
+    margin-top: -30;
+    margin-left: 0;
+}
+
+
+.card-text{
+    color: white;
+    font-size: small;
+    margin-left: -35;
+    width: 300;
+}
+.nav-item>.btn{
+    font-size: small;
+}
+.row>.btn{
+    width: 120;
+    font-size: small;
+    background-color: rgb(234, 92, 92);
+    color: white;
+}
+.navbar-nav {
+    font-size: small;
+}
